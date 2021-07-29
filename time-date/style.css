@@ -1,0 +1,11 @@
+.dt {
+    position: relative;
+    margin: 3%;
+    overflow: hidden;
+}
+.line {
+    position: absolute;
+    top: 7em;
+    left: 3em;
+    color: rgb(5, 49, 49);
+}
